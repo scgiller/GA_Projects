@@ -1,5 +1,4 @@
-#
-![]Data Science Immersive
+# Data Science Immersive
 
 Project 1 involved state level SAT scores.
 
