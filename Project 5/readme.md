@@ -1,5 +1,4 @@
-#
-![]Data Science Immersive
+#Data Science Immersive
 
 Project 5 involved the survival rate of Titanic passengers. After using logistic
 regression to predict whether a passenger survived the crash, I improved the model
