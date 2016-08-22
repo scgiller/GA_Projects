@@ -1,5 +1,4 @@
-#
-![]Data Science Immersive
+#Data Science Immersive
 
 Project 7 involved Federal Aviation Administration delay data. Using data on types
 of airport delays at every US airport, I used Principal Component Analysis and
