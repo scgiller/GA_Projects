@@ -1,5 +1,4 @@
-#
-![]Data Science Immersive
+#Data Science Immersive
 
 Project 3 involved Iowa state liquor sales data. Note: there is no blog post
 associated with this project.
