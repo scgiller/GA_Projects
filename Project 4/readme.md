@@ -1,5 +1,4 @@
-#
-![]Data Science Immersive
+#Data Science Immersive
 
 Project 4 involved salaries for Data Science jobs. I used BeautifulSoup to scrape
 salary information from Indeed.com, and then used logistic regression to predict
