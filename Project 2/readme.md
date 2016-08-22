@@ -1,5 +1,4 @@
-#
-![]Data Science Immersive
+#Data Science Immersive
 
 Project 2 involved weekly Billboard Top Song Rankings. I used linear regression
 to predict the top ranking a song would achieve.
