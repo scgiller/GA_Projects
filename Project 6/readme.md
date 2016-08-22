@@ -1,5 +1,4 @@
-#
-![]Data Science Immersive
+#Data Science Immersive
 
 Project 6 involved IMDb ratings pulled using both BeautifulSoup web scraping and the
 use of an API. Using multiple types of decision tree models, I attempted to predict
